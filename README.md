@@ -10,4 +10,4 @@
 
 5. Week 9 Lambdas and LINQ - Classwork/Individual. Simple lambda functions and LINQ utilizations.
 
-6. Week 9 Bisection Algorithm - Homework. Has program guess user number pick. I implemented unit tests throughout project.
+6. Week 9 Bisection Algorithm - Homework. Has program guess a user's number. I implemented unit tests throughout project.
