@@ -1,0 +1,21 @@
+# TaskList
+
+## User Provided tasks with free form, allowing constant entering of data.
+### The customer can use integers to define print tasks and other things related to this. 
+###Any kind of string will be handled as a new task
+
+##View by page, 1st page begins with first unactioned item, pages containing no unactioned items are preserved and displayed
+### Pages will have the last item they add be last in the list and the last to be viewed.
+### Any pages that have not yet reached the cursor of the user current task will not
+### change at all.
+
+## Added items will always become the last item on the "long list".
+### Added to end of the array away from cursor
+
+## Pages of items should contain 20 items each
+### A for loop will complete and add a new page with all items added
+
+##Completed items should be notated by gray text
+###This will be specified with a system call of some type and formatting of Console.Writeline
+
+##
