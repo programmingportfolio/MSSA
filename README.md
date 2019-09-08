@@ -13,3 +13,5 @@
 6. Week 9 Bisection Algorithm - Homework. Has program guess player's number. Implemented unit tests.
 
 7. Week 8 Fish Survey - Group Project. Attach multiple projects using references. Parse data from csv file to Entity objects. Setup Local DB using Entity Framework. Post data to Local DB created using entity framework, database migration and updating using bash, and C#.
+
+8. All Weeks T-SQL - Classwork/Individual. Entirety of our class T-SQL lessons and exercises.
