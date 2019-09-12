@@ -1,10 +1,16 @@
 # MSSA
 
+
+
+8. All Weeks T-SQL - Classwork/Individual. Entirety of our class T-SQL lessons and exercises.
+
 1. Week 3 Task List - Individual Project. A user friendly and tested task organizing application.
 
 2. Week 5 Space Game - Group Project. Space Game that involved three developers to collaborate to build a project.
 
 3. Week 7 Military Unit - Homework. Demonstration of classes and inheritance.
+
+9. Week 7 Roulette Game - Homework. Implements interfacing and auto implementing classes. Successfully refactored more complex functions, and could further subdivide later.
 
 4. Week 8 Dependency Injection - Classwork. Demonstration of dependency injection.
 
@@ -14,4 +20,4 @@
 
 7. Week 8 Fish Survey - Group Project. Attach multiple projects using references. Parse data from csv file to Entity objects. Setup Local DB using Entity Framework. Post data to Local DB created using entity framework, database migration and updating using bash, and C#.
 
-8. All Weeks T-SQL - Classwork/Individual. Entirety of our class T-SQL lessons and exercises.
+10. Week 11 Sports Store - Classwork. First Asp.Net project. Implements MVC Mode View Controller with Tag Helpers assisting data Models that change behavior of Controllers. Partial Views being generated as user-defined controllers.
