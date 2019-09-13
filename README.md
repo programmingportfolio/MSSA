@@ -3,7 +3,9 @@
 
 ##Top level directory
 
-Secure Cloud Solution.jpg - data flow diagram of front end to back end involving hyrbid to cloud networking, infrastructure, and application layer concepts.
+Secure Cloud Solution - Network.jpg - data flow diagram of front end to back end involving hyrbid to cloud networking and infrastructure design.
+
+Secure Cloud Solution - Application.jpg - data flow diagram of the application and data design.
 
 ##Folders
 
