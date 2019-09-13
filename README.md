@@ -1,6 +1,11 @@
 # MSSA
 
 
+##Top level directory
+
+Secure Cloud Solution.jpg - data flow diagram of front end to back end involving hyrbid to cloud networking, infrastructure, and application layer concepts.
+
+##Folders
 
 8. All Weeks T-SQL - Classwork/Individual. Entirety of our class T-SQL lessons and exercises.
 
