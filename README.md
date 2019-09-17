@@ -28,3 +28,5 @@ Secure Cloud Solution - Application.jpg - data flow diagram of the application a
 7. Week 8 Fish Survey - Group Project. Attach multiple projects using references. Parse data from csv file to Entity objects. Setup Local DB using Entity Framework. Post data to Local DB created using entity framework, database migration and updating using bash, and C#.
 
 10. Week 11 Sports Store - Classwork. First Asp.Net project. Implements MVC Mode View Controller with Tag Helpers assisting data Models that change behavior of Controllers. Partial Views being generated as user-defined controllers.
+
+11. Week 12 Category Theory - Monoids, maybe, mappend, and mconcat. Abstracting c# language creating wrappers around the language itself.
