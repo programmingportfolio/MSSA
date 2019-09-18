@@ -30,7 +30,7 @@ namespace SportsStore.Test
 
             //act
             ProductListViewModel result =
-                 controller.List(2).ViewData.Model as ProductListViewModel;
+                 controller.List(null, 2).ViewData.Model as ProductListViewModel;
 
             //assert
             Product[] prodArray = result.Products.ToArray();
@@ -60,7 +60,7 @@ namespace SportsStore.Test
 
             //act
             ProductListViewModel result =
-                controller.List(2).ViewData.Model as ProductListViewModel;
+                controller.List(null, 2).ViewData.Model as ProductListViewModel;
 
             //assert
             PagingInfo pageInfo = result.PagingInfo;
