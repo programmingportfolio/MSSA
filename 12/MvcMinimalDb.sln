@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMinimalDb", "MvcMinimalDb\MvcMinimalDb.csproj", "{E386910F-581D-4C64-808F-3F6A0B4C1591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7CBA577E-5A13-4010-88FA-B5283106071D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{19A65BE9-E6CA-4738-BA02-12675E25C0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E386910F-581D-4C64-808F-3F6A0B4C1591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E386910F-581D-4C64-808F-3F6A0B4C1591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E386910F-581D-4C64-808F-3F6A0B4C1591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E386910F-581D-4C64-808F-3F6A0B4C1591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBA577E-5A13-4010-88FA-B5283106071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBA577E-5A13-4010-88FA-B5283106071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBA577E-5A13-4010-88FA-B5283106071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBA577E-5A13-4010-88FA-B5283106071D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A65BE9-E6CA-4738-BA02-12675E25C0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A65BE9-E6CA-4738-BA02-12675E25C0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A65BE9-E6CA-4738-BA02-12675E25C0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A65BE9-E6CA-4738-BA02-12675E25C0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB4ACC1-342A-4CEC-863D-5AFDEAB3418F}
+	EndGlobalSection
+EndGlobal
