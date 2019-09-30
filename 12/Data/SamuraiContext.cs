@@ -10,7 +10,7 @@ namespace Data
     {
         public SamuraiContext(DbContextOptions<SamuraiContext> options)
             : base(options)
-           { }
+           {}
 
         public DbSet<Samurai> Samurais { get; set; }
         public DbSet<Quote> Quotes { get; set; }
@@ -20,6 +20,7 @@ namespace Data
         {
             modelBuilder.Entity<SamuraiBattle>()
                 .HasKey(s => new { s.SamuraiId, s.BattleId });
+
         }
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -25,7 +25,7 @@ namespace MvcMinimalDb
                 try
                 {
                     var context = services.GetRequiredService<SamuraiContext>();
-                    SeedData.EnsurePopulated(context);
+                    OverwriteDb.EnsurePopulated(context);
                 }
                 catch (Exception ex)
                 {
