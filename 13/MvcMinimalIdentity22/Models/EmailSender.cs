@@ -50,5 +50,5 @@ namespace MvcMinimalIdentity22.Models
                 new MailMessage(userName, email, subject, htmlMessage) { IsBodyHtml = true }
             );
         }
-     */
 }
+*/
