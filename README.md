@@ -32,3 +32,5 @@ Secure Cloud Solution - Application.jpg - data flow diagram of the application a
 11. Week 12 Category Theory - Monoids, maybe, mappend, and mconcat. Abstracting c# language creating wrappers around the language itself.
 
 12. Week 13 ASP.Net Mvc Minimal Db - Individual Project. Database setup using ASP.Net Mvc Core and Entity Framework Core. Has a function to migrate existing database or a new database.
+
+13. Week 14 ASP.Net Mvc 2.2 Custom Identity - Individual Project. Added existing data to identity user. Remapped everything to new application user. Url tag helper bug requires manual entry.

@@ -1,0 +1,7 @@
+Null reference in register callbackUrl
+
+https://stackoverflow.com/questions/51826950/url-page-returns-null-for-asp-core-identity
+
+Use Ninject to rewire asp.net dependency injection
+
+https://stackoverflow.com/questions/36239743/how-to-inject-usermanager-signinmanager
