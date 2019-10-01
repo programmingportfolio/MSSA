@@ -9,3 +9,6 @@ https://stackoverflow.com/questions/36239743/how-to-inject-usermanager-signinman
 Sample Asp.net callbackUrl confirm email string
 
 "https://localhost:5001/Identity/Account/ConfirmEmail?userId=d9f2040e-e585-44e1-920b-a1376ca47767&code=CfDJ8Mw7%2BMfVEMFMlc8gVfiz31h62vx2YLF%2BHJ0oyztnLZHHQqogXYmGtjDAWDk3S3Ab0XQnBWcIA6MXw3oJLlozSage8Zf7w%2FtRC0pDev9rCJckT1Rv9H6Bh5j94%2F0hZWwypN%2F3H%2F6aEIwxst2bDOPo6ofEXJ2PL9z8XKIV76Mr9f3EQeSBVl2yhbVZ6izkXqCXNjV7G0Zj6Zlprbko2R7oK3Qk1H9D51Wrtre9mMOEc740w89nz337dY7hCAgKVZQ4%2BQ%3D%3D"
+
+Setup EmailSender
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/accconfirm?view=aspnetcore-3.0&tabs=visual-studio
