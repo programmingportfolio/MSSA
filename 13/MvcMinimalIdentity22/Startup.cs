@@ -54,7 +54,7 @@ namespace MvcMinimalIdentity22
 
             // using Microsoft.AspNetCore.Identity.UI.Services;
             //services.AddSingleton<IEmailSender, EmailSender>();
-            services.AddTransient<IEmailSender, EmailSender>();
+            //services.AddTransient<IEmailSender, EmailSender>();
             //services.Configure<AuthMessageSenderOptions>(Configuration);
             services.AddTransient<IdentityUser, ApplicationUser>();
 

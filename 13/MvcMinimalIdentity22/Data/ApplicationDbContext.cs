@@ -12,5 +12,6 @@ namespace MvcMinimalIdentity22.Data
             : base(options)
         {
         }
+        
     }
 }
