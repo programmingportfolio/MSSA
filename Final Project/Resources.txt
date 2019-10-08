@@ -1,3 +1,0 @@
-Populating view models with database data.
-
-https://stackoverflow.com/questions/16071531/mvc4-c-sharp-populating-data-in-a-viewmodel-from-database
