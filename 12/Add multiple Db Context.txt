@@ -1,0 +1,7 @@
+Add-Migrations -Context TimeTrackDbContext
+
+Add-Migrations -Context TimeTrackerIdentityContext
+
+Update-Database -Context TimeTrackDbContext
+
+Update-Database -Context TimeTrackerIdentityContext
