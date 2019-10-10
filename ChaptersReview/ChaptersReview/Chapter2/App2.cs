@@ -11,16 +11,15 @@ namespace ChaptersReview.Chapter2
         /// Order of operators add subtract multiply divide modulus
         /// </summary>
 
-        static void PrintInt(int pinkInk)
-        {
-            Console.WriteLine(pinkInk);
-        }
+        /////////////////////////////////////////////////////
         public void Run()
         {
             int seven;
 
             seven = 7;
 
+
+            /////////////////////////////////////////////////////
             //const string eightS = "eight";
             const string eightS = "8";
             //const int eight = 8;
@@ -43,12 +42,17 @@ namespace ChaptersReview.Chapter2
 
             Console.WriteLine(nine.ToString());
 
+            /////////////////////////////////////////////////////
+
             var ls = new List<int>();
 
             Console.WriteLine(ls.ToString()); // displays type information
 
             Console.WriteLine((5 + 4) * 5);
             Console.WriteLine(5 + 4 * 5);
+
+
+            /////////////////////////////////////////////////////
 
             int a, b, c, d, e;
 
@@ -60,6 +64,10 @@ namespace ChaptersReview.Chapter2
             var ab = 7;
             var ac = 7;
 
+        }
+        static void PrintInt(int pinkInk)
+        {
+            Console.WriteLine(pinkInk);
         }
     }
 }

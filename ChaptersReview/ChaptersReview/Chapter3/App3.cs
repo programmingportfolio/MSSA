@@ -12,6 +12,7 @@ namespace ChaptersReview.Chapter3
         /// Could create a MyMultiply class library, and add reference from class library to ChaptersReview Console Application Project
         /// </summary>
 
+        /////////////////////////////////////////////////////
         public void Run()
         {
             int a, b, c, d, e;
@@ -41,7 +42,7 @@ namespace ChaptersReview.Chapter3
 
 
 
-
+            /////////////////////////////////////////////////////
             //tuples, structs usage, and generate methods from values
             var catTuple = CatTuple();
 
@@ -65,7 +66,7 @@ namespace ChaptersReview.Chapter3
 
 
 
-
+            /////////////////////////////////////////////////////
             //nested method
             //static int Multiply(int v1, int v2 = 1) => v1 * v2;
 
